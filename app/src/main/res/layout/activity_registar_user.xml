@@ -24,7 +24,7 @@
         <EditText
             android:id="@+id/nome"
             android:inputType="text"
-            android:autofillHints="texto de de de "
+            android:autofillHints="texto de de "
             android:layout_marginTop="@dimen/title"
             android:layout_marginLeft="@dimen/layout_margin"
             android:layout_marginRight="@dimen/layout_margin"
